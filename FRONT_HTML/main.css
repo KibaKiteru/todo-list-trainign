@@ -1,0 +1,16 @@
+* {
+	padding: 0;
+	margin: 0;
+}
+
+
+body {
+	background-color: #c6c6c6;
+	>header {
+        margin-bottom: 1em;
+	}
+}
+
+ul {
+	margin-left: 2em;
+}
